@@ -1,0 +1,14 @@
+.StartButton {
+    position: relative;
+    top: 30%;
+    text-align: center;
+}
+
+.StartButton button {
+    padding: 15px;
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    width: 19%;
+    cursor: pointer;
+}
